@@ -1,7 +1,6 @@
 //Algo Used: Stack
 // TC: O N , SC: O N
 package L7Stack;
-
 import java.util.Stack;
 
 public class SimplifyPath71 {
@@ -50,4 +49,3 @@ public class SimplifyPath71 {
         // Output: /home
     }
 }
-
