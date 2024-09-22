@@ -51,4 +51,3 @@ public class SimplifyPath71 {
     }
 }
 
-// This is first question
