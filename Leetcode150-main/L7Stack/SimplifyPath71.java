@@ -50,3 +50,5 @@ public class SimplifyPath71 {
         // Output: /home
     }
 }
+
+// This is first question
